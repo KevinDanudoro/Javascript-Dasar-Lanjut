@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "Kevin",
+        "prodi": "Teknik Komputer",
+        "nim": 205150
+    },
+
+    {
+        "nama": "Kenny",
+        "prodi": "Teknik Mesin",
+        "nim": 205151
+    },
+
+    {
+        "nama": "Keke",
+        "prodi": "Teknik Kimia",
+        "nim": 205152
+    },
+
+    {
+        "nama": "Koko",
+        "prodi": "Teknik Pertanian",
+        "nim": 205153
+    }
+]

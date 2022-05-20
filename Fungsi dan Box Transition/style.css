@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    border: 2px solid green;
+    margin: 50px auto;
+    transition: .3s width,              /* .3s 'width/height/dll'  => menunjukkan lamanya waktu animasi*/
+                .3s height .3s,         /* 'width/height/dll' .3s  => menunjukkan interval antara animasi 1 dengan animasi selanjutnya*/
+                .3s margin-top .3s,     /* seluruh transisi dieksekusi bersamaan, pintar2 menggunakan interval di atas */
+                1s background-color ;
+}
+
+
+.size{
+    width: 150px;
+    height: 150px;
+    margin-top: 25px;
+}
+
+.caption{
+    background-color: green;
+}
